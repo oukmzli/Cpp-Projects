@@ -1,0 +1,13 @@
+List:
+NODE 0: test1 asdas                  
+NODE 1: testStr
+NODE 2: testStr
+NODE 3: test2  asdasdasdasd          
+NODE 4: test3  asedddddddddd         
+NODE 5: test4  aaaaaaaaaaaa          
+NODE 6: test5  asdasd                
+NODE 7: iomfa if fasfsfa             
+NODE 8: asfasfs asfff                
+NODE 9: safsfff fasfsf               
+NODE 10: asfasffasf asfasff           
+NODE 11: asssasdsd                    
