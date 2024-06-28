@@ -51,7 +51,7 @@ This repository contains a variety of C++ projects focused on demonstrating skil
     -- class definitions, dynamic memory allocation, variadic functions, and arithmetic operations on polynomials.
 
 ## Other    
--- ** labs, midterms, doodles
+    -- ** labs, midterms, doodles **
 
 
 To clone and run these projects, follow these steps:
