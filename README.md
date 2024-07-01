@@ -5,7 +5,7 @@ This repository contains a variety of C++ projects focused on demonstrating skil
 
 ## Projects
 
-## First semester
+## First "sub-layer" (basics):
 
 ### A - Dice poker
     -- input/output operations, conditional statements, and variable handling.
@@ -29,7 +29,7 @@ This repository contains a variety of C++ projects focused on demonstrating skil
     -- string manipulation, function definitions, and operations on strings.
 
 
-## Second semester:
+## Second "sub-layer":
 
 ### A - Bit operations
     -- bit manipulation functions (with bit set defined by integer), struct definitions, and operations using bitwise operators.
@@ -59,9 +59,14 @@ To clone and run these projects, follow these steps:
 ```bash
 git clone https://github.com/oukmzli/Cpp-Projects.git
 cd Cpp-Projects
-
-g++ -o example example.cpp 
--- OR -- 
+```
+```bash
+g++ -o example example.cpp
+``` 
+-- OR --
+```bash 
 clang++ -o example example.cpp
-
+```
+```bash
 ./example
+```
